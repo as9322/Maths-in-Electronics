@@ -5,7 +5,8 @@ aliases:
 - "/docs"
 ---
 <span style="color: #173B72; font-size: 18px;">
-<h2 style="color: #173B72"> Understanding Electronics: Why Maths Matters </h2>
+
+## Understanding Electronics: Why Maths Matters
 When I was in school, everything was a drag. I hated doing pages and pages of maths, but I loved to build things. The only way I could make a career from building things was by becoming good at maths and physics. What made it even worse was the fact that I didn't understand why we were doing it.
 
 <!-- <img src="pagesofmaths.jpg" alt="Description of the image"> -->
@@ -18,7 +19,7 @@ Once I started working as an analog designer (electronic chip designer), I reali
 The picture above is an excerpt from my work notebook showing an intuitive way of looking at a complex amplifier called a cascode. I start by increasing Vin and track all the changes that happen along the way to see what will happen at Vout. We can also see some simple maths next to the arrows that quantifies these changes. This will help us to convert our customer requirements into transistor parameters.
 
 <!-- <div style="background-color: #f0f0f0; padding: 15px; border-radius: 5px;"> -->
-<h2 style="color: #173B72"> What is Electronics </h2>
+## What is Electronics
 
 [![alt text](../circuitboard.jpg)]()
 
@@ -29,7 +30,7 @@ These days, we’re surrounded by technology that would have seemed like science
 In electronics, we use maths to create models of our designs, which helps us estimate values that meet requirements. While these estimates might not be super precise, they give us insights into potential design flaws, ways to optimize our work, and whether our designs will function as we intended. Additionally, some math tools make our lives a lot easier. For instance, we use Laplace and Fourier transforms which simplify complex differential equations into polynomials, which are much easier to handle and still connect back to the real world.
 <!-- </div> -->
 
-<h2 style="color: #173B72"> Useful Maths Topics in Electronics </h2>
+## Useful Maths Topics in Electronics 
 
 Here are some topics from A-level maths that I have used in my job and will talk about in more detail:
 
