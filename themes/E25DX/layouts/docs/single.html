@@ -51,7 +51,7 @@
             <li>
               {{ if eq .Site.Language.Lang .Site.DefaultContentLanguage }}
                 {{ $href := printf "/%s/%s/" $.Section $pageSlug }}
-                <a class="{{ if $isActivePage }}active{{ end }}" href="{{ $href }}">
+                <a class="{{ if $isActivePage }}active{{ end }}" href="/Maths-in-Electronics/{{ $href }}">
                   {{ if and (eq $index 0) $group.replaceFirstPageTitle }}
                   {{ $group.replaceFirstPageTitle }}
                   {{ else }}
