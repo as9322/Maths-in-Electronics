@@ -20,7 +20,7 @@ The picture above is an excerpt from my work notebook showing an intuitive way o
 <!-- <div style="background-color: #f0f0f0; padding: 15px; border-radius: 5px;"> -->
 <h2 style="color: #173B72"> What is Electronics </h2>
 
-[![alt text](/docs/circuitboard.jpg)]()
+[![alt text](circuitboard.jpg)]()
 
 The first question to answer is: what is electronics? The dictionary definition is a branch of physics that focuses on the design and operation of devices that manipulate electrons and other electrically charged particles. In reality, it is about making cool stuff that helps people.
 
