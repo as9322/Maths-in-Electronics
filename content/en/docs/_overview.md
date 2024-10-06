@@ -13,14 +13,14 @@ When I was in school, everything was a drag. I hated doing pages and pages of ma
 
 Once I started working as an analog designer (electronic chip designer), I realized that I had to justify all my decisions so that other designers understood my designs. Some of this is through intuition and reasoning (explaining how circuits work using physics and increasing and decreasing quantities), but other parts are easier to explain using maths. We can use the same principles with regard to teaching and learning: if we understand why we are learning something and where it leads to in the future, we should end up actually understanding a topic rather than just memorising it and also have more motivation to learn.
 
-[![alt text](cascode.jpeg)]()
+[![alt text](../cascode.jpeg)]()
 
 The picture above is an excerpt from my work notebook showing an intuitive way of looking at a complex amplifier called a cascode. I start by increasing Vin and track all the changes that happen along the way to see what will happen at Vout. We can also see some simple maths next to the arrows that quantifies these changes. This will help us to convert our customer requirements into transistor parameters.
 
 <!-- <div style="background-color: #f0f0f0; padding: 15px; border-radius: 5px;"> -->
 <h2 style="color: #173B72"> What is Electronics </h2>
 
-[![alt text](circuitboard.jpg)]()
+[![alt text](../circuitboard.jpg)]()
 
 The first question to answer is: what is electronics? The dictionary definition is a branch of physics that focuses on the design and operation of devices that manipulate electrons and other electrically charged particles. In reality, it is about making cool stuff that helps people.
 
